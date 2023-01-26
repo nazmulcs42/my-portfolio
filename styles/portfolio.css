@@ -37,7 +37,7 @@ header {
     background-image: url("../images/header_bg.png"), url('../images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right, left;
-    background-size: auto, 83px;
+    background-size: auto, 90px;
 }
 
 main {
@@ -52,7 +52,7 @@ main {
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
